@@ -27,6 +27,11 @@
     "jsdom": "^20.0.0",
     "vite": "^3.0.7",
     "vite-plugin-eslint": "^1.8.1",
-    "vitest": "^0.22.1"
+    "vitest": "^0.22.1",
+    "@typescript-eslint/eslint-plugin": "2.34.0",
+    "@typescript-eslint/parser": "2.34.0",
+    "eslint-config-airbnb-base": "14.1.0",
+    "eslint-plugin-import": "2.21.1",
+    "eslint-plugin-header": "3.0.0"
   }
 }
